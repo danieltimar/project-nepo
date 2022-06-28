@@ -1,0 +1,15 @@
+name: project-nepo-env
+channels:
+  - conda-forge
+dependencies:
+  - seaborn
+  - matplotlib
+  - pandas
+  - scikit-learn
+  - numpy
+  - python=3.8
+  - tensorflow
+  - pypdf2
+  - textract
+  - ipykernel
+prefix: /home/studio-lab-user/.conda/envs/project-nepo-env
